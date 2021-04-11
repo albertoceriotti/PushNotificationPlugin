@@ -281,7 +281,6 @@ Push message opened event usage sample:
              
  };
 ```
-```
 
 Push message action tapped event usage sample:
 **OnNotificationAction**
